@@ -1,0 +1,5 @@
+project.godot                 Godot project configuration
+scenes/main.tscn              Main scene
+scripts/main.gd               UI navigation and screen layouts
+assets/ui_ux_reference.png    Visual UI/UX concept reference (if bundled)
+README.md                     Setup, scope and next-stage notes
